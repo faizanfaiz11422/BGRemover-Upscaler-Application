@@ -28,7 +28,7 @@ Before running the application from the source code, ensure you have the followi
 
 1.  **Clone the repository:**
     ```bash
-    git clone (https://github.com/faizanfaiz11422/BGRemover-Upscaler-Application.git)
+    git clone https://github.com/faizanfaiz11422/BGRemover-Upscaler-Application.git
     cd BGRemover-Upscaler-Application
     ```
 
