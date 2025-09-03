@@ -1,8 +1,0 @@
-customtkinter
-Pillow
-rembg
-super-image
-torch
-torchvision
-scipy
-requests
