@@ -62,9 +62,11 @@ Here are some examples of the application's functionality.
 
 ### Before & After Background Removal
 
+![Before & After Background Removal](https://github.com/faizanfaiz11422/BGRemover-Upscaler-Application/blob/main/Samples/BG_Remove.png)
 
 ### Super-Resolution Upscaling
 
+![Super-Resolution Upsclaing](https://github.com/faizanfaiz11422/BGRemover-Upscaler-Application/blob/main/Samples/Upscale.png)
 
 ## Ready-to-Use Executable (Windows)
 
