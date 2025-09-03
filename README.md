@@ -28,8 +28,8 @@ Before running the application from the source code, ensure you have the followi
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/your-repository-name.git](https://github.com/your-username/your-repository-name.git)
-    cd your-repository-name
+    git clone [https://github.com/faizanfaiz11422/BGRemover-Upscaler-Application.git](https://github.com/faizanfaiz11422/BGRemover-Upscaler-Application.git)
+    cd BGRemover-Upscaler-Application.git
     ```
 
 2.  **Create a virtual environment (recommended):**
@@ -70,7 +70,7 @@ Here are some examples of the application's functionality.
 
 For a seamless experience on Windows, you can use the pre-compiled executable file.
 
-1.  Download the `BGXUP.exe` from the [Releases page](https://github.com/your-username/your-repository-name/releases).
+1.  Download the `BGXUP.exe` from the [Releases page](https://github.com/faizanfaiz11422/BGRemover-Upscaler-Application/releases).
 2.  Place the executable in a folder of your choice.
 3.  Double-click the file to launch the application.
 
