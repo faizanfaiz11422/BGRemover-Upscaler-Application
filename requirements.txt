@@ -6,3 +6,4 @@ torch
 torchvision
 scipy
 requests
+onnxruntime
